@@ -1,0 +1,9 @@
+#nav-bar {
+    position: fixed;
+    margin: 0px 0px auto 0px;
+}
+@media (max-width: 600px){
+    #nav-bar {
+        width: 100%;
+    }
+}
